@@ -16,7 +16,7 @@
 
 ## Overview
 
-Develop a console application that will tell the user’s fortune based on data received from the user.
+Develop an application that will tell the user’s fortune based on data received from the user.
 
 ## Skills Required
 
